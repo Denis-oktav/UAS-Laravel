@@ -12,8 +12,8 @@
 </head>
 <body>
 
-    <h2 class="text-center">Aplikasi Surat Keluar</h2>
-    <p class="font-weight-light text-center">REVAN FEBRIANSYAH (18090091)</p>
+    <h2 class="text-center">Aplikasi Stok Barang</h2>
+    <p class="font-weight-light text-center">DENIS OKTAVIANO (18090135)</p>
 
    <div class="container mt-3">
     
@@ -25,12 +25,12 @@
     <table class="table table-striped ">
         <thead class="thead-danger">
           <tr>
-            <th scope="col">NO</th>
-            <th scope="col">Gambar Sapul</th>
-            <th scope="col">No Surat</th>
-            <th scope="col">Tanggal Surat</th>
-            <th scope="col">Judul Surat</th>
-           <th scope="col">Actions</th>
+            <th scope="col">No.</th>
+            <th scope="col">Gambar</th>
+            <th scope="col">Kategori</th>
+            <th scope="col">Nama Barang</th>
+            <th scope="col">Stok</th>
+           <th scope="col">Aksi</th>
 
           </tr>
         </thead>

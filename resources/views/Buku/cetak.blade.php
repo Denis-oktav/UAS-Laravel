@@ -11,18 +11,18 @@
             border: 1px solid #543535;
         }
     </style>
-    <title>Cetak Data Surat Keluar</title>
+    <title>Cetak Data Barang</title>
 </head>
 <body>
         <div>
-            <p align="center"><b>Laporan Data Surat</b></p>
+            <p align="center"><b>Laporan Data Barang</b></p>
             <table class="static" align="center" rules"all" border="1px" style="width: 95%">
                 <tr>
                     <th>No</th>
-                    <th>Gambar Surat</th>
-                    <th>No Surat</th>
-                    <th>Tanggal Surat</th>
-                    <th>Judul Surat</th>
+                    <th>Gambar Barang</th>
+                    <th>Kategori</th>
+                    <th>Nama Barang</th>
+                    <th>Stok</th>
                     
                 
                 </tr>  

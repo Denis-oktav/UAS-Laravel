@@ -12,21 +12,21 @@
     @cloudinaryJS
 </head>
 <body>
-  <h4 class="text-center">Form Tambah Surat Keluar</h4>
+  <h4 class="text-center">Form Tambah Barang</h4>
     <div class="container mt-3">
         <form action="{{route('buku.store')}} " method="POST" enctype="multipart/form-data">
             @csrf
             <div class="form-group">
-              <label for="exampleInputEmail1 " class="font-weight-bold">No Surat</label>
-              <input type="number" name="no_surat" class="form-control" id="exampleInputEmail1" placeholder="Masukkan No Surat">
+              <label for="exampleInputEmail1 " class="font-weight-bold">Kategori</label>
+              <input type="text" name="no_surat" class="form-control" id="exampleInputEmail1" placeholder="Masukkan Kategori">
             </div>
             <div class="form-group">
-              <label for="exampleInputPassword1" class="font-weight-bold">Tanggal Surat</label>
-              <input type="date" name="tanggal_surat" class="form-control" id="exampleInputPassword1" placeholder="Tanggal Surat">
+              <label for="exampleInputPassword1" class="font-weight-bold">Nama Barang</label>
+              <input type="text" name="tanggal_surat" class="form-control" id="exampleInputPassword1" placeholder="Masukkan Nama">
             </div>
             <div class="form-group">
-                <label for="exampleInputPassword1" class="font-weight-bold">Judul Surat</label>
-                <input type="text" name="judul_surat" class="form-control" id="exampleInputPassword1" placeholder="Masukkan Judul Surat">
+                <label for="exampleInputPassword1" class="font-weight-bold">Stok</label>
+                <input type="number" name="judul_surat" class="form-control" id="exampleInputPassword1" placeholder="Masukkan Stok">
               </div>
               <div class="form-group">
                 <label for="exampleInputPassword1" class="font-weight-bold">Gambar</label>
