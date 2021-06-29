@@ -1,8 +1,8 @@
 ### [Aplikasi Perekaman Toko Buku](http://bookstore-adesug.herokuapp.com/) klik
 ### [Diagram dan penjelasan](https://drive.google.com/file/d/1DsYMeY8FXMdUVxyXjaFOSRkWBNsQ4oB5/view?usp=sharing) klik
 #### By
-- Nama  : Revan Febriansyah
-- NIM   : 18090091
+- Nama  : Denis Oktaviano
+- NIM   : 18090135
 - Kelas : 6B
 #### Tools
 - Laravel       : Framework PHP
