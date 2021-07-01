@@ -1,5 +1,5 @@
-### [Aplikasi Perekaman Toko Buku](http://bookstore-adesug.herokuapp.com/) klik
-### [Diagram dan penjelasan](https://drive.google.com/file/d/1DsYMeY8FXMdUVxyXjaFOSRkWBNsQ4oB5/view?usp=sharing) klik
+### [Aplikasi Perekaman Stok Barang](http://uas-lara.herokuapp.com/) klik
+### [Diagram dan penjelasan](https://drive.google.com/file/d/1oO7ER6vmtONJYnuuYY4bhIWakONOKhCP/view?usp=sharing) klik
 #### By
 - Nama  : Denis Oktaviano
 - NIM   : 18090135
